@@ -1,0 +1,28 @@
+{
+  "name": "todo-cli",
+  "version": "1.0.0",
+  "description": "A CLI based Todo List",
+  "keywords": [
+    "CLI",
+    "Todo",
+    "node.js"
+  ],
+  "license": "ISC",
+  "author": "Kusagra Gupta",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "todo": "./bin/index.js"
+  },
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "commander": "^14.0.3",
+    "dotenv": "^17.2.3",
+    "mongoose": "^9.1.5"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.11"
+  }
+}
