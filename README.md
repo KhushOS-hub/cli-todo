@@ -24,4 +24,5 @@ cd todo-cli
 # Install dependencies
 npm install   
 
-NOTE: TO STORE THE DATA SIMPLY ADD YOUR "MONGO_URI"
+NOTE: TO STORE THE DATA SIMPLY ADD YOUR "MONGO_URI" to the .env file
+
