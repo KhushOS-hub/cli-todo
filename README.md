@@ -12,7 +12,7 @@ CLI Framework: Commander.js
 
 INSTALLATION
 # Clone the repository
-git clone https://github.com/KhushOS-hub/todo-cli.git
+git clone https://github.com/KhushOS-hub/cli-todo.git
 
 # Navigate into the folder
 cd todo-cli
